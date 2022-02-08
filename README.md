@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soniga16
+- 👋 Hi, I’m Soniga
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate **on frontend development**
